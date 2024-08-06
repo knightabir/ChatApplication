@@ -52,7 +52,7 @@ Once the application is running, you can access it in your web browser at:
 ```bash
 http://localhost:8080
 ```
-#Acknowledgements
-Spring Boot
-Spring WebSocket
-Java
+# Acknowledgements
+1. Spring Boot
+2. Spring WebSocket
+3. Java
